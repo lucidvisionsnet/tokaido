@@ -1,0 +1,504 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx version="1.1" creator="OsmAndRouterV2" xmlns="http://www.topografix.com/GPX/1/1" xmlns:osmand="https://osmand.net/docs/technical/osmand-file-formats/osmand-gpx" xmlns:gpxtpx="https://www8.garmin.com/xmlschemas/TrackPointExtensionv1.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 https://www.topografix.com/GPX/1/1/gpx.xsd">
+    <metadata>
+        <name>蒲原から由比まで</name>
+    </metadata>
+    <rte>
+        <rtept lat="35.1204074" lon="138.6081734">
+            <extensions>
+                <osmand:profile>pedestrian</osmand:profile>
+                <osmand:trkpt_idx>0</osmand:trkpt_idx>
+            </extensions>
+        </rtept>
+        <rtept lat="35.1191471" lon="138.6015504">
+            <extensions>
+                <osmand:profile>pedestrian</osmand:profile>
+                <osmand:trkpt_idx>22</osmand:trkpt_idx>
+            </extensions>
+        </rtept>
+        <rtept lat="35.117709" lon="138.6015586">
+            <extensions>
+                <osmand:profile>pedestrian</osmand:profile>
+                <osmand:trkpt_idx>27</osmand:trkpt_idx>
+            </extensions>
+        </rtept>
+        <rtept lat="35.1116237" lon="138.5739478">
+            <extensions>
+                <osmand:profile>pedestrian</osmand:profile>
+                <osmand:trkpt_idx>106</osmand:trkpt_idx>
+            </extensions>
+        </rtept>
+        <rtept lat="35.1075407" lon="138.5674805">
+            <extensions>
+                <osmand:profile>pedestrian</osmand:profile>
+                <osmand:trkpt_idx>124</osmand:trkpt_idx>
+            </extensions>
+        </rtept>
+    </rte>
+    <trk>
+        <name>蒲原から由比まで</name>
+        <trkseg>
+            <trkpt lat="35.1204018" lon="138.6081755">
+                <ele>8.8</ele>
+            </trkpt>
+            <trkpt lat="35.1203013" lon="138.6077562">
+                <ele>9</ele>
+            </trkpt>
+            <trkpt lat="35.1202355" lon="138.6073861">
+                <ele>10.2</ele>
+            </trkpt>
+            <trkpt lat="35.120196" lon="138.6071098">
+                <ele>10.3</ele>
+            </trkpt>
+            <trkpt lat="35.1201653" lon="138.6066779">
+                <ele>10.5</ele>
+            </trkpt>
+            <trkpt lat="35.1201433" lon="138.6063427">
+                <ele>11.2</ele>
+            </trkpt>
+            <trkpt lat="35.1201565" lon="138.6060879">
+                <ele>13</ele>
+            </trkpt>
+            <trkpt lat="35.1201565" lon="138.6060825">
+                <ele>13</ele>
+            </trkpt>
+            <trkpt lat="35.1201565" lon="138.6060074">
+                <ele>14</ele>
+            </trkpt>
+            <trkpt lat="35.1201565" lon="138.606002">
+                <ele>13.5</ele>
+            </trkpt>
+            <trkpt lat="35.1201455" lon="138.6058518">
+                <ele>13.2</ele>
+            </trkpt>
+            <trkpt lat="35.1201258" lon="138.6056936">
+                <ele>12.5</ele>
+            </trkpt>
+            <trkpt lat="35.1200161" lon="138.6048621">
+                <ele>13.2</ele>
+            </trkpt>
+            <trkpt lat="35.1199481" lon="138.60439">
+                <ele>14.2</ele>
+            </trkpt>
+            <trkpt lat="35.1199239" lon="138.6042291">
+                <ele>13</ele>
+            </trkpt>
+            <trkpt lat="35.1198669" lon="138.6039045">
+                <ele>12.8</ele>
+            </trkpt>
+            <trkpt lat="35.119812" lon="138.6036256">
+                <ele>12.9</ele>
+            </trkpt>
+            <trkpt lat="35.1197769" lon="138.6035049">
+                <ele>13</ele>
+            </trkpt>
+            <trkpt lat="35.1196234" lon="138.6030114">
+                <ele>10.2</ele>
+            </trkpt>
+            <trkpt lat="35.1193425" lon="138.602204">
+                <ele>13.2</ele>
+            </trkpt>
+            <trkpt lat="35.1191495" lon="138.6015496">
+                <ele>10.2</ele>
+            </trkpt>
+            <trkpt lat="35.1191471" lon="138.6015496">
+                <ele>10.2</ele>
+            </trkpt>
+            <trkpt lat="35.1191471" lon="138.6015496">
+                <ele>10.2</ele>
+            </trkpt>
+            <trkpt lat="35.1187721" lon="138.6015657">
+                <ele>9.8</ele>
+            </trkpt>
+            <trkpt lat="35.118612" lon="138.6015683">
+                <ele>9.2</ele>
+            </trkpt>
+            <trkpt lat="35.1184123" lon="138.6015576">
+                <ele>8.5</ele>
+            </trkpt>
+            <trkpt lat="35.117709" lon="138.6015576">
+                <ele>7</ele>
+            </trkpt>
+            <trkpt lat="35.1177091" lon="138.6015576">
+                <ele>7</ele>
+            </trkpt>
+            <trkpt lat="35.1177037" lon="138.6015576">
+                <ele>7</ele>
+            </trkpt>
+            <trkpt lat="35.11764" lon="138.6011258">
+                <ele>10</ele>
+            </trkpt>
+            <trkpt lat="35.1176137" lon="138.6009488">
+                <ele>9.8</ele>
+            </trkpt>
+            <trkpt lat="35.1174865" lon="138.6000395">
+                <ele>8.8</ele>
+            </trkpt>
+            <trkpt lat="35.1174272" lon="138.599562">
+                <ele>8.5</ele>
+            </trkpt>
+            <trkpt lat="35.1174184" lon="138.5994494">
+                <ele>8.3</ele>
+            </trkpt>
+            <trkpt lat="35.1173482" lon="138.5987198">
+                <ele>6.8</ele>
+            </trkpt>
+            <trkpt lat="35.1173044" lon="138.5983095">
+                <ele>8.5</ele>
+            </trkpt>
+            <trkpt lat="35.1172978" lon="138.598237">
+                <ele>8.8</ele>
+            </trkpt>
+            <trkpt lat="35.1172561" lon="138.5979822">
+                <ele>9.2</ele>
+            </trkpt>
+            <trkpt lat="35.1171486" lon="138.5973895">
+                <ele>8.5</ele>
+            </trkpt>
+            <trkpt lat="35.1169599" lon="138.5964695">
+                <ele>10.2</ele>
+            </trkpt>
+            <trkpt lat="35.1169204" lon="138.5963112">
+                <ele>10</ele>
+            </trkpt>
+            <trkpt lat="35.1168458" lon="138.5959974">
+                <ele>10</ele>
+            </trkpt>
+            <trkpt lat="35.1168173" lon="138.5958686">
+                <ele>13</ele>
+            </trkpt>
+            <trkpt lat="35.1167098" lon="138.5954261">
+                <ele>16</ele>
+            </trkpt>
+            <trkpt lat="35.1166264" lon="138.5950962">
+                <ele>13.5</ele>
+            </trkpt>
+            <trkpt lat="35.1165979" lon="138.5949406">
+                <ele>12.8</ele>
+            </trkpt>
+            <trkpt lat="35.1165781" lon="138.5948119">
+                <ele>12.2</ele>
+            </trkpt>
+            <trkpt lat="35.1165518" lon="138.594667">
+                <ele>12.5</ele>
+            </trkpt>
+            <trkpt lat="35.1165014" lon="138.5943639">
+                <ele>12.8</ele>
+            </trkpt>
+            <trkpt lat="35.1164904" lon="138.5943076">
+                <ele>12.5</ele>
+            </trkpt>
+            <trkpt lat="35.116407" lon="138.5938329">
+                <ele>11.8</ele>
+            </trkpt>
+            <trkpt lat="35.1163565" lon="138.5935244">
+                <ele>11</ele>
+            </trkpt>
+            <trkpt lat="35.116339" lon="138.5933983">
+                <ele>10.8</ele>
+            </trkpt>
+            <trkpt lat="35.1162447" lon="138.5927305">
+                <ele>10</ele>
+            </trkpt>
+            <trkpt lat="35.1162249" lon="138.5926151">
+                <ele>11</ele>
+            </trkpt>
+            <trkpt lat="35.1161503" lon="138.5921752">
+                <ele>12</ele>
+            </trkpt>
+            <trkpt lat="35.1160867" lon="138.5918587">
+                <ele>9.8</ele>
+            </trkpt>
+            <trkpt lat="35.1160077" lon="138.5914242">
+                <ele>11.8</ele>
+            </trkpt>
+            <trkpt lat="35.1159594" lon="138.5912097">
+                <ele>11.2</ele>
+            </trkpt>
+            <trkpt lat="35.1159353" lon="138.5910863">
+                <ele>10.2</ele>
+            </trkpt>
+            <trkpt lat="35.1158519" lon="138.5907081">
+                <ele>10.5</ele>
+            </trkpt>
+            <trkpt lat="35.1157334" lon="138.5901904">
+                <ele>12.2</ele>
+            </trkpt>
+            <trkpt lat="35.1157027" lon="138.5900187">
+                <ele>12</ele>
+            </trkpt>
+            <trkpt lat="35.1156545" lon="138.5897478">
+                <ele>11.5</ele>
+            </trkpt>
+            <trkpt lat="35.1156106" lon="138.5893482">
+                <ele>10.8</ele>
+            </trkpt>
+            <trkpt lat="35.1155206" lon="138.5886776">
+                <ele>9</ele>
+            </trkpt>
+            <trkpt lat="35.1155053" lon="138.588565">
+                <ele>9.3</ele>
+            </trkpt>
+            <trkpt lat="35.115367" lon="138.587653">
+                <ele>12</ele>
+            </trkpt>
+            <trkpt lat="35.1152727" lon="138.587079">
+                <ele>9</ele>
+            </trkpt>
+            <trkpt lat="35.11522" lon="138.5867009">
+                <ele>10.2</ele>
+            </trkpt>
+            <trkpt lat="35.1150906" lon="138.5855019">
+                <ele>9</ele>
+            </trkpt>
+            <trkpt lat="35.1150138" lon="138.5850191">
+                <ele>9.2</ele>
+            </trkpt>
+            <trkpt lat="35.1149085" lon="138.5843351">
+                <ele>9.5</ele>
+            </trkpt>
+            <trkpt lat="35.1148646" lon="138.5838953">
+                <ele>9.7</ele>
+            </trkpt>
+            <trkpt lat="35.1148514" lon="138.5836753">
+                <ele>9.8</ele>
+            </trkpt>
+            <trkpt lat="35.1148163" lon="138.5832918">
+                <ele>8.8</ele>
+            </trkpt>
+            <trkpt lat="35.1147681" lon="138.5829458">
+                <ele>8.5</ele>
+            </trkpt>
+            <trkpt lat="35.1147571" lon="138.5828599">
+                <ele>9.2</ele>
+            </trkpt>
+            <trkpt lat="35.1146123" lon="138.582015">
+                <ele>8</ele>
+            </trkpt>
+            <trkpt lat="35.1145026" lon="138.5813525">
+                <ele>9.8</ele>
+            </trkpt>
+            <trkpt lat="35.1144828" lon="138.5812399">
+                <ele>9.8</ele>
+            </trkpt>
+            <trkpt lat="35.1143534" lon="138.580631">
+                <ele>10.4</ele>
+            </trkpt>
+            <trkpt lat="35.1143161" lon="138.5804969">
+                <ele>10.5</ele>
+            </trkpt>
+            <trkpt lat="35.1143161" lon="138.5804915">
+                <ele>10.5</ele>
+            </trkpt>
+            <trkpt lat="35.1142963" lon="138.5804003">
+                <ele>12</ele>
+            </trkpt>
+            <trkpt lat="35.1142963" lon="138.580395">
+                <ele>12</ele>
+            </trkpt>
+            <trkpt lat="35.1142218" lon="138.5801321">
+                <ele>10.8</ele>
+            </trkpt>
+            <trkpt lat="35.1140901" lon="138.5796252">
+                <ele>15.2</ele>
+            </trkpt>
+            <trkpt lat="35.1139892" lon="138.5793516">
+                <ele>10</ele>
+            </trkpt>
+            <trkpt lat="35.113829" lon="138.578901">
+                <ele>10</ele>
+            </trkpt>
+            <trkpt lat="35.1138268" lon="138.5788956">
+                <ele>10</ele>
+            </trkpt>
+            <trkpt lat="35.1138005" lon="138.5788098">
+                <ele>10</ele>
+            </trkpt>
+            <trkpt lat="35.1137983" lon="138.5788044">
+                <ele>10</ele>
+            </trkpt>
+            <trkpt lat="35.1136074" lon="138.578276">
+                <ele>9.2</ele>
+            </trkpt>
+            <trkpt lat="35.1132673" lon="138.5772675">
+                <ele>10.3</ele>
+            </trkpt>
+            <trkpt lat="35.1131225" lon="138.5768464">
+                <ele>10.8</ele>
+            </trkpt>
+            <trkpt lat="35.1130369" lon="138.5766184">
+                <ele>12</ele>
+            </trkpt>
+            <trkpt lat="35.1129316" lon="138.5763636">
+                <ele>13.5</ele>
+            </trkpt>
+            <trkpt lat="35.1128241" lon="138.5761303">
+                <ele>15</ele>
+            </trkpt>
+            <trkpt lat="35.1126332" lon="138.5757574">
+                <ele>17</ele>
+            </trkpt>
+            <trkpt lat="35.1123151" lon="138.5751754">
+                <ele>13</ele>
+            </trkpt>
+            <trkpt lat="35.1122449" lon="138.5750708">
+                <ele>12.5</ele>
+            </trkpt>
+            <trkpt lat="35.1118828" lon="138.5744673">
+                <ele>10.8</ele>
+            </trkpt>
+            <trkpt lat="35.1117644" lon="138.5742259">
+                <ele>11.5</ele>
+            </trkpt>
+            <trkpt lat="35.1116547" lon="138.573963">
+                <ele>11</ele>
+            </trkpt>
+            <trkpt lat="35.1116249" lon="138.5739448">
+                <ele>10.8</ele>
+            </trkpt>
+            <trkpt lat="35.1116249" lon="138.5739448">
+                <ele>10.8</ele>
+            </trkpt>
+            <trkpt lat="35.1115362" lon="138.5738906">
+                <ele>10.2</ele>
+            </trkpt>
+            <trkpt lat="35.1110578" lon="138.5731074">
+                <ele>10.2</ele>
+            </trkpt>
+            <trkpt lat="35.1110052" lon="138.5730323">
+                <ele>9</ele>
+            </trkpt>
+            <trkpt lat="35.1099871" lon="138.5715598">
+                <ele>8.8</ele>
+            </trkpt>
+            <trkpt lat="35.1096997" lon="138.5711655">
+                <ele>11</ele>
+            </trkpt>
+            <trkpt lat="35.1095987" lon="138.5709751">
+                <ele>11.2</ele>
+            </trkpt>
+            <trkpt lat="35.1094758" lon="138.5705969">
+                <ele>11</ele>
+            </trkpt>
+            <trkpt lat="35.1093925" lon="138.5704306">
+                <ele>11.8</ele>
+            </trkpt>
+            <trkpt lat="35.1092652" lon="138.5702375">
+                <ele>12</ele>
+            </trkpt>
+            <trkpt lat="35.1090195" lon="138.5698941">
+                <ele>13.2</ele>
+            </trkpt>
+            <trkpt lat="35.1089536" lon="138.5698029">
+                <ele>12.5</ele>
+            </trkpt>
+            <trkpt lat="35.1087649" lon="138.5695776">
+                <ele>12.2</ele>
+            </trkpt>
+            <trkpt lat="35.1086464" lon="138.5694838">
+                <ele>11.8</ele>
+            </trkpt>
+            <trkpt lat="35.1084643" lon="138.5691887">
+                <ele>12.5</ele>
+            </trkpt>
+            <trkpt lat="35.1077644" lon="138.5679039">
+                <ele>14.2</ele>
+            </trkpt>
+            <trkpt lat="35.1076546" lon="138.5677055">
+                <ele>15</ele>
+            </trkpt>
+            <trkpt lat="35.1075362" lon="138.5674801">
+                <ele>14</ele>
+            </trkpt>
+            <trkpt lat="35.1075393" lon="138.5674776">
+                <ele>14</ele>
+            </trkpt>
+            <extensions>
+                <osmand:route>
+                    <segment id="835084872" length="8" startTrkptIdx="0" segmentTime="204.54" speed="0.95" turnType="C" turnAngle="" types="0,1,2" pointTypes=";5;4;;4;3;;" names="25,26,27,28,29,30,31,32"/>
+                    <segment id="835084873" length="2" startTrkptIdx="7" segmentTime="6.16" speed="1.11" turnType="" turnAngle="" types="6,0,1,2" pointTypes="" names="25,26,27,28,29,30,31,32"/>
+                    <segment id="273511059" length="13" startTrkptIdx="8" segmentTime="421.75" speed="1.00" turnType="" turnAngle="" types="0,1,2" pointTypes=";;;4;;;7;;;5;;" names="25,26,27,28,29,30,31,32"/>
+                    <segment id="273511059" length="2" startTrkptIdx="20" segmentTime="0.23" speed="1.11" turnType="TL" turnAngle="-72.17" types="0,1,2" pointTypes=";" names="25,26,27,28,29,30,31,32"/>
+                    <segment id="273511059" length="5" startTrkptIdx="22" segmentTime="144.15" speed="1.11" turnType="C" turnAngle="" types="0,1,2" pointTypes=";;;;" names="25,26,27,28,29,30,31,32"/>
+                    <segment id="273511059" length="2" startTrkptIdx="27" segmentTime="0.55" speed="1.11" turnType="C" turnAngle="" types="0,1,2" pointTypes=";8" names="25,26,27,28,29,30,31,32"/>
+                    <segment id="513948991" length="14" startTrkptIdx="28" segmentTime="540.44" speed="0.95" turnType="TR" turnAngle="79.79" types="9,10,11,12,2,13,14,15,16,17,18" pointTypes="8;;4;4;;;4;;;;4;8;4;" names="33,34,26,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,28,50,51,30,31,32"/>
+                    <segment id="444883580" length="2" startTrkptIdx="41" segmentTime="10.93" speed="1.11" turnType="" turnAngle="" types="6,9,10,11,12,2,13,14,15,16,17,18" pointTypes="" names="33,34,26,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,28,50,51,52,30,31,32"/>
+                    <segment id="444883581" length="42" startTrkptIdx="42" segmentTime="1428.98" speed="1.00" turnType="" turnAngle="" types="9,10,11,12,2,13,14,15,16,17,18" pointTypes=";;3;19;5;;;4;4;4;4;4;;;3;;4;3;;;;4;4;4;;;19;;4;;;;;8,4;;;4;;;;" names="33,34,26,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,28,50,51,30,31,32"/>
+                    <segment id="849787673" length="2" startTrkptIdx="83" segmentTime="7.73" speed="1.11" turnType="" turnAngle="" types="6,9,10,11,12,2,13,14,15,16,17,18" pointTypes="" names="33,34,26,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,28,50,51,30,31,32"/>
+                    <segment id="849787672" length="7" startTrkptIdx="84" segmentTime="164.31" speed="0.89" turnType="" turnAngle="" types="9,10,11,12,2,13,14,15,16,17,18" pointTypes=";;5;;" names="33,34,26,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,28,50,51,30,31,32"/>
+                    <segment id="849787671" length="2" startTrkptIdx="90" segmentTime="7.51" speed="1.11" turnType="" turnAngle="" types="6,9,10,11,12,2,13,14,15,16,17,18" pointTypes="" names="33,34,26,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,28,50,51,30,31,32"/>
+                    <segment id="849787670" length="9" startTrkptIdx="91" segmentTime="336.96" speed="0.91" turnType="" turnAngle="" types="9,10,11,12,2,13,14,15,16,17,18" pointTypes=";;4;8;;;;;" names="33,34,26,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,28,50,51,30,31,32"/>
+                    <segment id="849787670" length="6" startTrkptIdx="99" segmentTime="187.43" speed="1.05" turnType="C" turnAngle="-1.71" types="9,10,11,12,2,13,14,15,16,17,18" pointTypes=";19;8,5;4;;8,4" names="33,34,26,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,28,50,51,30,31,32"/>
+                    <segment id="425579170" length="2" startTrkptIdx="104" segmentTime="8.34" speed="0.44" turnType="TSLL" turnAngle="-36.40" types="20,1,11,12,2" pointTypes="8;" names="25,26,27,37,38,39,40,41,42,43,44,45,46,47,48,49,28,29,30,31,32"/>
+                    <segment id="425579170" length="3" startTrkptIdx="106" segmentTime="90.05" speed="1.11" turnType="C" turnAngle="" types="20,1,11,12,2" pointTypes=";19;4" names="25,26,27,37,38,39,40,41,42,43,44,45,46,47,48,49,28,29,30,31,32"/>
+                    <segment id="425579169" length="2" startTrkptIdx="108" segmentTime="8.11" speed="1.11" turnType="" turnAngle="" types="6,20,1,11,12,2" pointTypes="" names="25,26,27,37,38,39,40,41,42,43,44,45,46,47,48,49,28,29,30,31,32"/>
+                    <segment id="36850980" length="5" startTrkptIdx="109" segmentTime="271.13" speed="1.04" turnType="" turnAngle="" types="20,1,11,12,2" pointTypes=";;;;4" names="25,26,27,37,38,39,40,41,42,43,44,45,46,47,48,49,28,29,30,31,32"/>
+                    <segment id="1329871277" length="11" startTrkptIdx="113" segmentTime="361.93" speed="0.99" turnType="" turnAngle="" types="0,1,11,12,2" pointTypes=";;;;19;4;4;;;;5" names="25,26,27,37,38,39,40,41,42,43,44,45,46,47,48,49,28,29,30,31,32"/>
+                    <segment id="1329871287" length="2" startTrkptIdx="123" segmentTime="0.56" speed="0.75" turnType="TR" turnAngle="91.02" types="21,22" pointTypes="19;" names=""/>
+                </osmand:route>
+                <osmand:types>
+                    <type t="highway" v="unclassified"/>
+                    <type t="route_road_1_network" v="jp:gokaido"/>
+                    <type t="osmand_highway_integrity_brouting" v="0"/>
+                    <type t="osmand_ele_decline_7" v="1"/>
+                    <type t="osmand_ele_decline_1" v="1"/>
+                    <type t="osmand_ele_decline_3" v="1"/>
+                    <type t="bridge" v="yes"/>
+                    <type t="highway" v="crossing"/>
+                    <type t="highway" v="traffic_signals"/>
+                    <type t="highway" v="secondary"/>
+                    <type t="route_road_1_network" v="#"/>
+                    <type t="route_bicycle" v=""/>
+                    <type t="network" v="ncn"/>
+                    <type t="route_road_1_shield_color" v="blue"/>
+                    <type t="route_road_1_shield_shape" v="lrhexagon"/>
+                    <type t="route_road_1_shield_order" v="2"/>
+                    <type t="road_shield_color_1" v="blue"/>
+                    <type t="road_shield_shape_1" v="lrhexagon"/>
+                    <type t="road_shield_order_1" v="2"/>
+                    <type t="osmand_ele_decline_5" v="1"/>
+                    <type t="highway" v="tertiary"/>
+                    <type t="highway" v="footway"/>
+                    <type t="osmand_highway_integrity_brouting" v="2"/>
+                    <type t="name" v=""/>
+                    <type t="ref" v=""/>
+                    <type t="name" v="旧東海道"/>
+                    <type t="road_name_1" v="旧東海道"/>
+                    <type t="road_network_1" v="jp:gokaido"/>
+                    <type t="route_road_1_name" v="旧東海道"/>
+                    <type t="name:en" v="Kyū Tōkaidō"/>
+                    <type t="route_road_1_name:es" v="Antigua Tokaido"/>
+                    <type t="route_road_1_name:fr" v="Tōkaidō"/>
+                    <type t="route_road_1_name:ko" v="구 도카이도"/>
+                    <type t="name" v="富士由比線"/>
+                    <type t="ref" v="396"/>
+                    <type t="road_network_1" v="#"/>
+                    <type t="road_ref_1" v="396"/>
+                    <type t="route_bicycle_1" v=""/>
+                    <type t="route_bicycle_1_from" v="銚子市"/>
+                    <type t="route_bicycle_1_name" v="太平洋岸自転車道"/>
+                    <type t="route_bicycle_1_network" v="ncn"/>
+                    <type t="route_bicycle_1_osmc_background" v="white_3"/>
+                    <type t="route_bicycle_1_osmc_stub_name" v="."/>
+                    <type t="route_bicycle_1_osmc_text" v="PCR"/>
+                    <type t="route_bicycle_1_osmc_textcolor" v="black"/>
+                    <type t="route_bicycle_1_ref" v="PCR"/>
+                    <type t="route_bicycle_1_relation_id" v="15537716"/>
+                    <type t="route_bicycle_1_to" v="和歌山市"/>
+                    <type t="route_bicycle_1_website" v="https://www.kkr.mlit.go.jp/road/pcr/index.html"/>
+                    <type t="route_bicycle_1_wikipedia" v="ja:太平洋岸自転車道"/>
+                    <type t="route_road_1_ref" v="396"/>
+                    <type t="name:en" v="Fuji Yui Sen"/>
+                    <type t="bridge:name" v="向田川橋"/>
+                    <type t="name:en" v=""/>
+                    <type t="name:ja" v=""/>
+                    <type t="name:en" v="Kanzawa By-Pass"/>
+                    <type t="name" v="神沢バイパス"/>
+                    <type t="name:en" v="Kanzawa"/>
+                    <type t="name" v="神沢"/>
+                    <type t="name:ja" v="神沢"/>
+                </osmand:types>
+            </extensions>
+        </trkseg>
+    </trk>
+</gpx>

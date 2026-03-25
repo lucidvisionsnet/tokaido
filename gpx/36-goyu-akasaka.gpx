@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx version="1.1" creator="OsmAndRouterV2" xmlns="http://www.topografix.com/GPX/1/1" xmlns:osmand="https://osmand.net/docs/technical/osmand-file-formats/osmand-gpx" xmlns:gpxtpx="https://www8.garmin.com/xmlschemas/TrackPointExtensionv1.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 https://www.topografix.com/GPX/1/1/gpx.xsd">
+    <metadata>
+        <name>御油から赤坂まで</name>
+    </metadata>
+    <rte>
+        <rtept lat="34.8448998" lon="137.3174286">
+            <extensions>
+                <osmand:profile>pedestrian</osmand:profile>
+                <osmand:trkpt_idx>0</osmand:trkpt_idx>
+            </extensions>
+        </rtept>
+        <rtept lat="34.8559206" lon="137.308039">
+            <extensions>
+                <osmand:profile>pedestrian</osmand:profile>
+                <osmand:trkpt_idx>43</osmand:trkpt_idx>
+            </extensions>
+        </rtept>
+    </rte>
+    <trk>
+        <name>御油から赤坂まで</name>
+        <trkseg>
+            <trkpt lat="34.8449004" lon="137.3174293">
+                <ele>28.2</ele>
+            </trkpt>
+            <trkpt lat="34.8449069" lon="137.3174232">
+                <ele>28.2</ele>
+            </trkpt>
+            <trkpt lat="34.8450874" lon="137.3172489">
+                <ele>29.2</ele>
+            </trkpt>
+            <trkpt lat="34.8453933" lon="137.3169109">
+                <ele>31.2</ele>
+            </trkpt>
+            <trkpt lat="34.8457257" lon="137.3165676">
+                <ele>30.9</ele>
+            </trkpt>
+            <trkpt lat="34.8458402" lon="137.3164737">
+                <ele>30.8</ele>
+            </trkpt>
+            <trkpt lat="34.8459018" lon="137.3164335">
+                <ele>30.5</ele>
+            </trkpt>
+            <trkpt lat="34.8461836" lon="137.3162296">
+                <ele>30.2</ele>
+            </trkpt>
+            <trkpt lat="34.846265" lon="137.316184">
+                <ele>30</ele>
+            </trkpt>
+            <trkpt lat="34.8466172" lon="137.3159829">
+                <ele>30.2</ele>
+            </trkpt>
+            <trkpt lat="34.8471984" lon="137.3157737">
+                <ele>30.6</ele>
+            </trkpt>
+            <trkpt lat="34.8478301" lon="137.3154277">
+                <ele>31</ele>
+            </trkpt>
+            <trkpt lat="34.8480613" lon="137.3152936">
+                <ele>31.5</ele>
+            </trkpt>
+            <trkpt lat="34.8482638" lon="137.3151326">
+                <ele>31</ele>
+            </trkpt>
+            <trkpt lat="34.8486446" lon="137.3147491">
+                <ele>30.5</ele>
+            </trkpt>
+            <trkpt lat="34.8489329" lon="137.3145023">
+                <ele>31.2</ele>
+            </trkpt>
+            <trkpt lat="34.8491927" lon="137.3142368">
+                <ele>31.5</ele>
+            </trkpt>
+            <trkpt lat="34.8494304" lon="137.3139256">
+                <ele>31.8</ele>
+            </trkpt>
+            <trkpt lat="34.8495933" lon="137.3137191">
+                <ele>32.2</ele>
+            </trkpt>
+            <trkpt lat="34.8500115" lon="137.3133516">
+                <ele>32.8</ele>
+            </trkpt>
+            <trkpt lat="34.8503351" lon="137.3131344">
+                <ele>34</ele>
+            </trkpt>
+            <trkpt lat="34.8505794" lon="137.3129547">
+                <ele>35</ele>
+            </trkpt>
+            <trkpt lat="34.8509096" lon="137.3126704">
+                <ele>34.5</ele>
+            </trkpt>
+            <trkpt lat="34.8512265" lon="137.3123217">
+                <ele>34.2</ele>
+            </trkpt>
+            <trkpt lat="34.8515303" lon="137.3119059">
+                <ele>34.8</ele>
+            </trkpt>
+            <trkpt lat="34.8517548" lon="137.311525">
+                <ele>35.2</ele>
+            </trkpt>
+            <trkpt lat="34.8518472" lon="137.3113936">
+                <ele>35.8</ele>
+            </trkpt>
+            <trkpt lat="34.8522016" lon="137.3110905">
+                <ele>35.8</ele>
+            </trkpt>
+            <trkpt lat="34.8522677" lon="137.311053">
+                <ele>35</ele>
+            </trkpt>
+            <trkpt lat="34.852622" lon="137.3108733">
+                <ele>34.5</ele>
+            </trkpt>
+            <trkpt lat="34.85295" lon="137.3107713">
+                <ele>35.8</ele>
+            </trkpt>
+            <trkpt lat="34.853377" lon="137.3106962">
+                <ele>35.5</ele>
+            </trkpt>
+            <trkpt lat="34.8535355" lon="137.3106372">
+                <ele>35.8</ele>
+            </trkpt>
+            <trkpt lat="34.8537732" lon="137.3105058">
+                <ele>36.2</ele>
+            </trkpt>
+            <trkpt lat="34.8542904" lon="137.3100847">
+                <ele>37.8</ele>
+            </trkpt>
+            <trkpt lat="34.8544357" lon="137.3099345">
+                <ele>38.2</ele>
+            </trkpt>
+            <trkpt lat="34.8544467" lon="137.3099238">
+                <ele>38.3</ele>
+            </trkpt>
+            <trkpt lat="34.8545722" lon="137.3097548">
+                <ele>38.5</ele>
+            </trkpt>
+            <trkpt lat="34.8547593" lon="137.3094919">
+                <ele>38.8</ele>
+            </trkpt>
+            <trkpt lat="34.8548957" lon="137.3093256">
+                <ele>39.5</ele>
+            </trkpt>
+            <trkpt lat="34.8554724" lon="137.3085988">
+                <ele>41</ele>
+            </trkpt>
+            <trkpt lat="34.8558774" lon="137.3080945">
+                <ele>40</ele>
+            </trkpt>
+            <trkpt lat="34.8559192" lon="137.3080409">
+                <ele>39.8</ele>
+            </trkpt>
+            <trkpt lat="34.8559207" lon="137.3080392">
+                <ele>39.7</ele>
+            </trkpt>
+            <extensions>
+                <osmand:route>
+                    <segment id="637801109" length="28" startTrkptIdx="0" segmentTime="987.32" speed="1.02" turnType="C" turnAngle="" types="0,1,2,3,4,5,6,7,8,9,10,11" pointTypes=";;;;;12;13;;13;;;;;13;;;;;;;;;13;;;;;" names="19,20,21,22,23,24,25,26,27,28,29,30"/>
+                    <segment id="637801105" length="2" startTrkptIdx="27" segmentTime="7.30" speed="1.11" turnType="" turnAngle="" types="0,14,1,2,3,4,5,6,7,8,9,10,11" pointTypes="" names="19,20,21,22,23,24,25,26,27,28,29,30"/>
+                    <segment id="439128852" length="16" startTrkptIdx="28" segmentTime="513.50" speed="0.98" turnType="" turnAngle="" types="0,1,2,3,4,5,6,7,8,9,10,11" pointTypes=";;;;;;;;;;;;;15,13;16,13;" names="19,20,21,22,23,24,25,26,27,28,29,30"/>
+                </osmand:route>
+                <osmand:types>
+                    <type t="access" v="yes"/>
+                    <type t="highway" v="secondary"/>
+                    <type t="lanes" v="1"/>
+                    <type t="surface" v="paved"/>
+                    <type t="route_road_1_network" v="#"/>
+                    <type t="osmand_highway_integrity_brouting" v="1"/>
+                    <type t="route_road_1_shield_color" v="blue"/>
+                    <type t="route_road_1_shield_shape" v="lrhexagon"/>
+                    <type t="route_road_1_shield_order" v="2"/>
+                    <type t="road_shield_color_1" v="blue"/>
+                    <type t="road_shield_shape_1" v="lrhexagon"/>
+                    <type t="road_shield_order_1" v="2"/>
+                    <type t="osmand_ele_decline_3" v="1"/>
+                    <type t="osmand_ele_decline_1" v="1"/>
+                    <type t="bridge" v="yes"/>
+                    <type t="highway" v="crossing"/>
+                    <type t="highway" v="traffic_signals"/>
+                    <type t="name" v=""/>
+                    <type t="ref" v=""/>
+                    <type t="name" v="長沢国府線"/>
+                    <type t="ref" v="374"/>
+                    <type t="road_name_1" v="旧東海道"/>
+                    <type t="road_network_1" v="#"/>
+                    <type t="road_ref_1" v="374"/>
+                    <type t="route_road_1_name" v="旧東海道"/>
+                    <type t="route_road_1_ref" v="374"/>
+                    <type t="name:en" v="Nagasawa-Kō Line"/>
+                    <type t="name:ja" v="長沢国府線"/>
+                    <type t="route_road_1_name:es" v="Antigua Tokaido"/>
+                    <type t="route_road_1_name:fr" v="Tōkaidō"/>
+                    <type t="route_road_1_name:ko" v="구 도카이도"/>
+                </osmand:types>
+            </extensions>
+        </trkseg>
+    </trk>
+</gpx>
